@@ -155,10 +155,11 @@ strong{
 /*estilo quinto index*/
 .boton-in5{
 	background-color: #f6a800;
-	color: white;
-	margin: 40px auto;
-	width: 100%;
-	height: 45px;
+    color: white;
+    margin: 40px auto;
+    width: 50%;
+    display: block;
+    height: 27px;
     border: none;
 }
 .num-tar5{
@@ -169,10 +170,16 @@ strong{
 	border-bottom: 1px solid #3e3f41;
 }
 .dropdown {
-	width: 100px;
 	margin-top: 40px;
 }
  .open>.dropdown-menu {
     margin: 0 15px;
     display: block;
+}
+/*estilo sexto index*/
+#drop6{
+	margin: 0px -10px;
+}
+.seis{
+	margin-top: 40px;
 }
