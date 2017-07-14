@@ -82,3 +82,44 @@ strong{
     color: white;
     margin-top: 15px;
 }
+/*estilo tercero index*/
+.usuario-fondo{
+	background-color:  #f6a800;
+}
+.usuario{
+	margin: 20px auto;
+	border-radius: 50%;
+	height: 150px;
+    width: 150px;
+}
+.index3{
+	text-align: center;
+	background-color: #dddee0;
+}
+
+.boton-in3{
+	background-color: #f6a800;
+	color: white;
+	margin: 80px auto;
+	width: 100%;
+	height: 45px;
+    border: none;
+}
+.ejemplo-mail{
+	text-align: center;
+    margin-top: 50px;
+	height: 40px;
+	width: 100%;
+	background-color: white;
+	border: none;
+}
+.num-tar{
+	margin-top: 40px;
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #3e3f41;
+}
+.usu-ali{
+	text-align: center;
+}
