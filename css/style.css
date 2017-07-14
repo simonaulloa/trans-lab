@@ -44,6 +44,7 @@ body{
 }
 
 .inp1{
+	text-indent: 10px;
 	width: 100%;
 	height: 55px;
     border: none;
@@ -63,8 +64,7 @@ body{
 }
 strong{
 	color: #f6a800;
-}
-
+}	
 
 /*estilo segundo index*/
 .nav2{
@@ -175,6 +175,18 @@ strong{
  .open>.dropdown-menu {
     margin: 0 15px;
     display: block;
+}
+
+#div5{
+	text-align: center;
+	background-color:  #f6a800;
+	color: white;
+	height: 150px;
+
+}
+.saldo-total{
+	height: 30px;
+	background-color: #3e3f41;
 }
 /*estilo sexto index*/
 #drop6{
