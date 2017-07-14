@@ -9,13 +9,23 @@ AMARILLO: #f6a800 ;
 	padding: 0 auto;
 	font-family: 'Open Sans', sans-serif;
 }
+body{
+	background-color: #dddee0;
+	width:100%;
+	height:100%;
+}
+#body2{
+	background-color: #3e3f41;
+	width:100%;
+	height:100%;
+}
 /* estilo primer index*/
 .first, .second, .third{
 	background-color: #3e3f41;
 }
 .logo{
 	display: block;
-	margin-top: 100px;
+	margin-top: 70px;
 	width: 50%;
 }
 .trans{
@@ -23,7 +33,7 @@ AMARILLO: #f6a800 ;
 	font-weight: 800;
 	font-size: 30px;
 	text-align: center;
-	margin: 10px 0 70px 0;
+	margin: 10px 0 50px 0;
 }
 .p-boton{
 	background-color: #f6a800;
@@ -38,10 +48,17 @@ AMARILLO: #f6a800 ;
 	height: 55px;
     border: none;
 }
-.a-uno{
+.olvidaste{
+    margin-top: 20px;
+}
+.olvidaste2{
 	color: white;
 }
-.a-dos{
+.cuenta{
+    margin-top: 25px;
+    text-align: center;
+}
+.cuenta2{
 	color: white;
 }
 strong{
@@ -100,7 +117,7 @@ strong{
 .boton-in3{
 	background-color: #f6a800;
 	color: white;
-	margin: 80px auto;
+	margin: 60px auto;
 	width: 100%;
 	height: 45px;
     border: none;
@@ -113,7 +130,7 @@ strong{
 	background-color: white;
 	border: none;
 }
-.num-tar{
+.num-tar3{
 	margin-top: 40px;
 	width: 100%;
 	background-color: transparent;
@@ -128,4 +145,34 @@ strong{
 	margin: 70px auto;
 	text-align: center;
 	color: white;
+}
+.collapse {
+    text-align: left;
+}
+.panel-group {
+    margin: 30px auto;
+}
+/*estilo quinto index*/
+.boton-in5{
+	background-color: #f6a800;
+	color: white;
+	margin: 40px auto;
+	width: 100%;
+	height: 45px;
+    border: none;
+}
+.num-tar5{
+	margin-top: 60px;
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #3e3f41;
+}
+.dropdown {
+	width: 100px;
+	margin-top: 40px;
+}
+ .open>.dropdown-menu {
+    margin: 0 15px;
+    display: block;
 }
