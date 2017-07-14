@@ -43,7 +43,6 @@ AMARILLO: #f6a800 ;
 }
 .a-dos{
 	color: white;
-
 }
 strong{
 	color: #f6a800;
@@ -60,12 +59,26 @@ strong{
 	background-color: #dddee0;
 }
 .trans2{
+	padding-top: 20px;
 	color: white;
 }
 .boton-in2{
 	background-color: #f6a800;
+	color: white;
 	margin-top: 15px;
 	width: 100%;
-	height: 55px;
+	height: 45px;
     border: none;
+}
+.aa{
+	margin-top: 152px;
+}
+
+.ab{
+	margin-bottom: 170px;
+}
+.glyphicon{
+	font-size: 25px;
+    color: white;
+    margin-top: 15px;
 }
